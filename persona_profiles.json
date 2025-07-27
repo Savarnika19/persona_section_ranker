@@ -1,0 +1,5 @@
+{
+  "student": ["introduction", "conclusion", "key points", "summary"],
+  "researcher": ["abstract", "methodology", "results", "discussion"],
+  "developer": ["implementation", "architecture", "api", "code examples"]
+}
